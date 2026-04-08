@@ -4,7 +4,7 @@
 ## 📝 Project Overview
 **TechWave** is a modern, dark-themed landing page designed for tech podcasts. The project focuses on a premium user experience with high-quality visuals, vibrant gradients, and a clean layout to showcase episodes, hosts, and features.
 
-🔗 **Live Demo:** [View Project Live](https://https://najiba-ta.github.io/TechWeb/)
+🔗 **Live Demo:** [View Project Live](https://najiba-ta.github.io/TechWeb/)
 ---
 
 ## ✨ Key Features
