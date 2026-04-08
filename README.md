@@ -32,7 +32,7 @@
 
 ---
 
-## 📸 Screenshots
+
 The landing page includes:
 1. **Hero Section:** Eye-catching podcast branding with "Listen Now" call-to-action.
 2. **Stats Bar:** Displays subscribers and ratings (150K+, 4.9⭐).
