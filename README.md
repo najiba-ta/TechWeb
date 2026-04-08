@@ -1,146 +1,49 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-002 😎
+# 🎙️ TechWave - Podcast Landing Page
+
+
+## 📝 Project Overview
+**TechWave** is a modern, dark-themed landing page designed for tech podcasts. The project focuses on a premium user experience with high-quality visuals, vibrant gradients, and a clean layout to showcase episodes, hosts, and features.
+
+🔗 **Live Demo:** [View Project Live](https://najiba-ta.github.io/TechWeb_/) *(Note: Please update this link with your actual GitHub Pages URL)*
 
 ---
 
-📅 Deadline For 60 marks: 20th January, 2026 (11:59 pm ⏱️)
-
-📅 Deadline For 50 marks: 21th January, 2026 (11:59 pm ⏱️)
-
-📅 Deadline For 30 marks: Any time after 21th January.
-
-# TechWave - Podcast Website
-
-## ❓ Common Questions & Answers
-
-**Can I use different images?**
-
-- Yes, you may use any relevant images.
-
-**Can I change the alignment and design freely?**
-
-- No. You must follow the alignment and layout shown in the Figma design.
-
-**Can I change colors?**
-
-- Yes, as long as the colors are relevant and visually consistent.
-
-**Do I need to make the page pixel-perfect?**
-
-- No. You can use your own margin and padding while following the overall structure from Figma.
+## ✨ Key Features
+- **Fully Responsive Design:** Seamlessly adapts to desktops, tablets, and mobile devices.
+- **Interactive Hover Effects:** Elegant transitions and hover states on buttons and feature cards for better engagement.
+- **Modern UI/UX:** High-contrast dark theme with glowing neon gradients.
+- **Feature Sections:** Includes sections for "Why Choose TechWave", "Featured Episodes", and "Meet the Host".
+- **Social Integration:** Beautifully styled social media icons and footer links.
 
 ---
 
-## 📌 Assignment Requirements
-
-### ✅ Main Requirements (50 Marks)
-
-### Navbar
-
-- **Desktop/Laptop/Large Device:**
-  - Logo on the Left
-  - Menu Items in the Center (like Figma design)
-  - Gradient Button on the Right
-- **Mobile Device:**
-  - Hidden nav items with hamburger menu icon
-  - Fully responsive navigation
-
-### Banner Section
-
-- **Desktop/Laptop/Large Device:**
-  - Background Image
-  - Center-aligned podcast circle view with visual effects
-  - Relevant heading and descriptive text at center
-  - Two call-to-action buttons below the text
-- **Mobile Device:**
-  - Mobile responsive layout matching Figma design
-
-
-### About Section
-
-- **Desktop/Laptop/Large Device:**
-  - Heading with descriptive text at the top
-  - 4 statistics items displayed in a row with proper styling
-- **Mobile Device:**
-  - 4 statistics items responsive layout (2x2 grid stacked on mobile)
-
-### Why Choose Section
-
-- **Desktop/Laptop/Large Device:**
-  - 5 feature cards layout matching Figma design
-  - Each card contains: icon, title, and description
-- **Mobile Device:**
-  - Fully responsive card layout
-  - Single column layout on mobile devices
-
-### Featured Episodes Section
-
-- **Desktop/Laptop/Large Device:**
-  - 3 featured episode cards layout
-  - Each card includes: title, description, and duration
-  - YouTube video links embedded in cards
-- **Mobile Device:**
-  - Responsive card layout for mobile devices
-
-### Footer Section
-
-- **Desktop/Laptop/Large Device:**
-  - Center-aligned layout with brand and platform information
-  - Copyright information with horizontal line separator
-- **Mobile Device:**
-  - Responsive footer layout maintaining readability
+## 🛠️ Built With (Tech Stack)
+- **HTML5:** For semantic web structure.
+- **CSS3:** Custom styling including:
+  - Flexbox & CSS Grid for layouts.
+  - Advanced CSS Transitions & Hover effects.
+  - Gradient backgrounds and glassmorphism elements.
+- **Google Fonts:** For clean and professional typography.
 
 ---
 
-## 🚀 CHALLENGES (10 Marks)
-
-### Host Section
-
-- **Desktop/Laptop/Large Device:**
-  - Image on the left with host name, biography, and social media icons
-  - Professional layout with proper alignment
-- **Mobile Device:**
-  - Responsive layout with stacked design for mobile view
-
-### Additional Challenges
-
-- Implement smooth animations on any buttons or sections for enhanced user experience
-- Minimum 5 commits on GitHub with meaningful commit messages
-- No Lorem Ipsum content - use relevant, meaningful text
-- "New" badge in the podcast circle view positioned exactly as per Figma design
+## 📦 Dependencies
+- **Font Awesome:** For social media and feature icons.
+- **Pure CSS:** No external frameworks (like Bootstrap) used, ensuring lightweight and fast loading.
 
 ---
 
-### Responsive Breakpoints
-
-- **Small device:** up to 576 px 
-- **Medium Device:** 576px to 992 px (Optional)
-- **Large Device:** above 992 px 
-
-
----
-
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3/Tailwind CSS
-- No JavaScript
+## 📸 Screenshots
+The landing page includes:
+1. **Hero Section:** Eye-catching podcast branding with "Listen Now" call-to-action.
+2. **Stats Bar:** Displays subscribers and ratings (150K+, 4.9⭐).
+3. **Episode Cards:** Minimalist cards showcasing the latest tech discussions.
 
 ---
 
-## ✅ Submission Checklist
+## 🚀 How to Run Locally
+To explore the project on your local machine:
 
-- Figma layout followed correctly
-- Proper alignment and spacing
-- Clean and readable HTML & CSS
-- Each Section are responsive with proper breakpoints
-- Live site deployed
-- Public GitHub repository
-
----
-
-## 📂 Submission Format
-
-- **GitHub Repository Link**
-- **Live Website Link (GitHub Pages)**
-
----
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/najiba-ta/TechWeb_.git](https://github.com/najiba-ta/TechWeb_.git)
